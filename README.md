@@ -4,15 +4,21 @@
 ![feedback](https://user-images.githubusercontent.com/102697831/212197178-d8a79216-252d-496b-83bf-3e51764df183.png)
 
  # ⚙️ This project was developed with:
-- ReactJS
-- NodeJS
-- TypeScript
-- Prisma
-- Express
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/docs)
+- [Node.js](https://nodejs.org/en/)
+- [Prisma](https://www.prisma.io/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Jest](https://jestjs.io/)
 
 # 📚 Libraries:
 - [tailwindcss](https://tailwindcss.com/)
+- [postcss](https://postcss.org/)
 - [phosphoricons](https://phosphoricons.com/)
+- [headlessui](https://headlessui.com/)
+- [html2canvas](https://www.npmjs.com/package/html2canvas)
+- [nodemailer](https://www.npmjs.com/package/nodemailer)
 
 # Installing:
 ```bash
