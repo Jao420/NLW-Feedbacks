@@ -61,7 +61,7 @@ export function WidgetForm() {
                 )}
 
             <footer className="text-xs text-neutral-400">
-                Feito por <a className="underline underline-offset-2" href="https://github.com/Jaozim420">Jaozim420</a>
+                Feito por <a className="underline underline-offset-2" href="https://github.com/Jao420">Jao420</a>
             </footer>
         </div>
     );
