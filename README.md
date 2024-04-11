@@ -22,6 +22,6 @@
 
 # Installing:
 ```bash
-$ git clone git@github.com:Jaozim420/NLW-Feedbacks-web.git
+$ git clone git@github.com:JaoVSP/NLW-Feedbacks-web.git
 ```
 
